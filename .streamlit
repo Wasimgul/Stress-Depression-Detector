@@ -1,0 +1,3 @@
+[client]
+# Shows Streamlit's Deploy button and the three-dots menu (Settings > Theme: Light / Dark / System).
+toolbarMode = "developer"
